@@ -1,0 +1,12 @@
+{
+  "type": "instanthealmod:distillation",
+  "ingredient": {
+    "item": "instanthealmod:fermented_liquid_bucket"
+  },
+  "output1": {
+    "item": "instanthealmod:ethanol_bottle"
+  },
+  "output2": {
+    "item": "instanthealmod:waste_liquid_bucket"
+  }
+}

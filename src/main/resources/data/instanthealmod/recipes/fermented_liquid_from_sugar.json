@@ -1,0 +1,9 @@
+{
+  "type": "instanthealmod:fermentation",
+  "ingredients": [
+    { "item": "minecraft:sugar" },
+    { "item": "minecraft:bucket" }
+  ],
+  "output1": { "item": "instanthealmod:waste_item" },
+  "output2": { "item": "instanthealmod:fermented_liquid_bucket" }
+}

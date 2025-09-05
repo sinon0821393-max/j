@@ -1,0 +1,12 @@
+{
+  "type": "instanthealmod:pyrolysis",
+  "ingredient": {
+    "item": "instanthealmod:dichloroethane_item"
+  },
+  "output1": {
+    "item": "instanthealmod:hydrogen_chloride_item"
+  },
+  "output2": {
+    "item": "instanthealmod:vinyl_chloride_monomer_item"
+  }
+}

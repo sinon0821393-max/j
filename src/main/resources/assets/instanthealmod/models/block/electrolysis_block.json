@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "instanthealmod:block/electrolysis_block"
+  }
+}

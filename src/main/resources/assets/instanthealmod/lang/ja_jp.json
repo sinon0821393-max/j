@@ -1,0 +1,39 @@
+{
+  "itemGroup.instantheal_main": "InstantHealMOD",
+
+
+
+
+  "item.instanthealmod.instantrecoveryagents": "回復パック",
+
+
+  "item.instanthealmod.heroitem": "エメラルドリンゴ",
+  "item.instanthealmod.heroitemdesc1": "エンチャント金リンゴの廉価版",
+  "item.instanthealmod.heroitemdesc2": "金リンゴよりかは使えるようだ...",
+
+
+
+
+  "effect.minecraft.hero_of_the_village": "村の英雄",
+
+  "item.minecraft.potion.effect.heropotion": "英雄のポーション",
+
+
+
+  "block.instanthealmod.distiller_block" : "蒸留機",
+
+  "block.instanthealmod.electrolysis_block" : "電気分解機",
+
+  "block.instanthealmod.pyrolysis_block" : "熱分解炉",
+
+  "block.instanthealmod.fermentationblock" : "発酵炉",
+
+  "block.instanthealmod.chemical_reactor_block" : "化学反応機",
+
+  "container.instanthealmod.chemical_block": "化学反応機",
+
+  "container.instanthealmod.inventory": "インベントリ"
+
+
+
+}

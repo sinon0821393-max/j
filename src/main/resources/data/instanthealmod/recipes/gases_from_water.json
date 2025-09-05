@@ -1,0 +1,9 @@
+{
+  "type": "instanthealmod:electrolysis",
+  "ingredients": [
+    { "item": "minecraft:water_bucket" },
+    { "item": "minecraft:glass_bottle" }
+  ],
+  "output1": { "item": "instanthealmod:chlorine_bottle" },
+  "output2": { "item": "instanthealmod:hydrogen_bottle" }
+}

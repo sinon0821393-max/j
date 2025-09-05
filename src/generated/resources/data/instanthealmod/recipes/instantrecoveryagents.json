@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gig",
+        "SPS",
+        "BGB"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "S": {
+            "item": "minecraft:slime_ball"
+        },
+        "P": {
+            "item": "minecraft:potion"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        },
+        "G": {
+            "item": "minecraft:glistering_melon_slice"
+        }
+    },
+    "result": {
+        "item": "instanthealmod:instantrecoveryagents",
+        "count": 1
+    }
+}
